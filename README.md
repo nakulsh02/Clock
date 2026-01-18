@@ -12,4 +12,4 @@ A modern, stylish *premium clock* that combines *analogue and digital displays* 
 
 ## Demo
 
-> 
+> https://nakulsh02.github.io/Clock/
